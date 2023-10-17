@@ -1,10 +1,10 @@
 {
-    "name": "aaa",
-    "description": "aahahah",
+    "name": "Grab",
+    "description": "hep",
     "authors": [
-        {
-            "name": "@vestria.",
-            "id": "614807913302852834"
+      
+            "name": "@vestrua",
+            "id": "614807914"
         }
     ],
     "semanticColors": {
@@ -42,6 +42,7 @@
         "CHANNEL_ICON": ["#84c1f0", "#84c1f0"],
         "CHAT_BACKGROUND": ["#84c1f0", "#e1f6ff"]
     },
+    "gradient": ["#84c1f0", "#e1f6ff", "#84c1f0"],
     "rawColors": {
         "PRIMARY_100": "#84c1f0",
         "PRIMARY_200": "#84c1f0",
